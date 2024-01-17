@@ -1,5 +1,5 @@
 {
-    "name": "48-grupe-ufo",
+    "name": "ufo",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -8,7 +8,7 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
-    "author": "Rimantas (https://github.com/belauzas)",
+    "author": "Matas https://github.com/MatasMM",
     "license": "MIT",
     "devDependencies": {
         "dead-server": "^1.0.9"
