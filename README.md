@@ -68,7 +68,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Matas https://github.com/MatasMM
 
 ## ⚠️ License
 
